@@ -1,0 +1,4 @@
+std_msgs/String lane_id
+Point2d point
+---
+CenterPolylinePoint center_polyline_point

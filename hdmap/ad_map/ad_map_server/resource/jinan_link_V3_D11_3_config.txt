@@ -1,0 +1,9 @@
+[ADMap]
+map=jinan_link_V3_D11_3.xodr
+openDriveOverlapMargin=0.2
+openDriveDefaultIntersectionType=TrafficLight
+openDriveDefaultTrafficLightType=LEFT_STRAIGHT_RED_YELLOW_GREEN
+
+
+[POI]
+poi=T1 0 0 0

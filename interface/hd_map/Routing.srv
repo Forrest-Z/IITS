@@ -1,0 +1,9 @@
+
+# positions
+geometry_msgs/Point begin_pos
+geometry_msgs/Point end_pos
+
+---
+
+uint64[] lane_id
+geometry_msgs/Point[] waypoints

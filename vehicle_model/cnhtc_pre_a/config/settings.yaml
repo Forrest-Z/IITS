@@ -1,0 +1,5 @@
+fead:
+  trucksim_bridge:
+    ros__parameters:
+      trucksim_settings:
+        sim_file_path: "resource/simfile.sim"

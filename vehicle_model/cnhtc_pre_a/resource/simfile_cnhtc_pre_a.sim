@@ -1,0 +1,18 @@
+SIMFILE
+
+INPUT ./simulation/vehicle_model/trucksim_api/Run_cnhtc_pre_a_v1p1_square_all.par
+INPUTARCHIVE ./bazel-bin/simulation/vehicle_model/trucksim_api/LastRun_all.par
+ECHO ./bazel-bin/simulation/vehicle_model/trucksim_api/LastRun_echo.par
+FINAL ./bazel-bin/simulation/vehicle_model/trucksim_api/LastRun_end.par
+LOGFILE ./bazel-bin/simulation/vehicle_model/trucksim_api/LastRun_log.txt
+ERDFILE ./bazel-bin/simulation/vehicle_model/trucksim_api/LastRun.vs
+ANIMATOR ./bazel-bin/simulation/vehicle_model/trucksim_api/animator.par
+SOFILE ./bazel-cybertron/../../external/trucksim_api/libtrucksim.so.2020.0
+PRODUCT_ID TruckSim
+PRODUCT_VER 2020.0
+VEHICLE_CODE s_ss__sss
+EXT_MODEL_STEP 0.001
+PORTS_IMP 1,14
+PORTS_EXP 1,22
+
+END

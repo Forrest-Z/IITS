@@ -1,0 +1,7 @@
+#fead:
+  carla_bridge:
+    ros__parameters:
+      carla_settings:
+        port: 2000
+        host: "127.0.0.1"
+        synchronous_mode: True

@@ -1,0 +1,4 @@
+# positions
+geometry_msgs/Point pos
+---
+float64 slop

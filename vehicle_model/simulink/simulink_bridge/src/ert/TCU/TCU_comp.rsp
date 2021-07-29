@@ -1,0 +1,8 @@
+-IE:\vehicledynamicmodel\simple_vehicle\code
+-IE:\vehicledynamicmodel\simple_vehicle\code\slprj\ert\TCU
+-I"D:\Program Files\Polyspace\R2019b\extern\include"
+-I"D:\Program Files\Polyspace\R2019b\simulink\include"
+-I"D:\Program Files\Polyspace\R2019b\rtw\c\src"
+-I"D:\Program Files\Polyspace\R2019b\rtw\c\src\ext_mode\common"
+-I"D:\Program Files\Polyspace\R2019b\rtw\c\ert"
+-IE:\vehicledynamicmodel\simple_vehicle\code\slprj\ert\_sharedutils

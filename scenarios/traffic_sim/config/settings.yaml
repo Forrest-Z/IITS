@@ -1,0 +1,5 @@
+fead:
+  traffic_sim:
+    ros__parameters:
+      traffic_sim_settings:
+        dummy: True

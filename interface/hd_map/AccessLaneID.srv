@@ -1,0 +1,4 @@
+geometry_msgs/Point waypoint
+---
+uint64 lane_id
+

@@ -1,0 +1,4 @@
+std_msgs/String lane_segment_id
+geometry_msgs/Point proj_point
+---
+ProjectedPoint2d projected_point2d

@@ -1,0 +1,6 @@
+# positions
+float64 x
+float64 y
+---
+uint64 lane_id
+float64 z

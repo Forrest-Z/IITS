@@ -1,0 +1,6 @@
+
+geometry_msgs/Point waypoint
+---
+bool flag
+geometry_msgs/Point waypoint
+

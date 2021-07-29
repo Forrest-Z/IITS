@@ -1,0 +1,5 @@
+# fead:
+scenario_runner:
+  ros__parameters:
+    scenario_settings:
+      dummy: True
